@@ -1,0 +1,1 @@
+[{"titulo":"Jabon","descripcion":"Fragancia de rosas","precio":1800,"imagen":"none","codigo":"abc123","stock":10,"id":1}]{"titulo":"Esponja","descripcion":"Vegetal","precio":500,"imagen":"none","codigo":"bcd234","stock":20,"id":2},{"titulo":"Shampoo","descripcion":"Solido","precio":1100,"imagen":"none","codigo":"bcd234","stock":15,"id":3}]
